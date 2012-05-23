@@ -14,3 +14,4 @@ site](http://book.cakephp.org). ;)
 ##Contributor
 
 * Fakhrur Hizam Bin Mohd ([http://code.hexflux.com](http://code.hexflux.com))
+* Hassan Bakar ([http://www.hassanbakar.com](http://www.hassanbakar.com))
